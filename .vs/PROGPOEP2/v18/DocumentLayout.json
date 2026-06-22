@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\tasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\tasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\intentrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\intentrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\addtaskdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\addtaskdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\progpoep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\progpoep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\lab_services_student\\downloads\\poe-part2-dlaminithando\\poe-part2-dlaminithando\\progpoep2\\progpoep2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\progpoep2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "PROGPOEP2\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskItem.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskItem.cs",
+              "RelativeToolTip": "PROGPOEP2\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:30.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskRepository.cs",
+              "RelativeToolTip": "PROGPOEP2\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:30.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TasManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TasManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TasManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\TasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\VoiceManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\VoiceManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\VoiceManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\VoiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ResponseManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\ResponseManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ResponseManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\ResponseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizQuestion.cs",
+              "RelativeToolTip": "PROGPOEP2\\QuizQuestion.cs",
+              "ViewState": "AgIAAAIAAACwmZmZmRk0wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:47:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\QuizManager.cs",
+              "ViewState": "AgIAAGcAAAAAm5mZmdkrwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:50:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\Program.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\Program.cs",
+              "RelativeToolTip": "PROGPOEP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MemoryManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MemoryManager.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MemoryManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\MemoryManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs [Design]",
+              "RelativeToolTip": "PROGPOEP2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.Designer.cs",
+              "RelativeToolTip": "PROGPOEP2\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:26:54.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntentRecognizer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\IntentRecognizer.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\IntentRecognizer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\IntentRecognizer.cs",
+              "RelativeToolTip": "PROGPOEP2\\IntentRecognizer.cs",
+              "ViewState": "AgIAAEwAAAAAzMzMzEwrwAEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T11:54:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ChatbotEngine.cs",
+              "RelativeToolTip": "PROGPOEP2\\ChatbotEngine.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAIAqwG0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\AsciiArt.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\AsciiArt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\AsciiArt.cs",
+              "RelativeToolTip": "PROGPOEP2\\AsciiArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:53:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActivityLogger.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ActivityLogger.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\ActivityLogger.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\ActivityLogger.cs",
+              "RelativeToolTip": "PROGPOEP2\\ActivityLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T13:43:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs",
+              "RelativeToolTip": "PROGPOEP2\\MainForm.cs",
+              "ViewState": "AgIAAFYAAAAAmJmZmVkgwMMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:27:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizForm.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\QuizForm.cs",
+              "RelativeToolTip": "PROGPOEP2\\QuizForm.cs",
+              "ViewState": "AgIAAOkAAAAABAAAAIAdwPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:51:23.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddTaskDialog.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\AddTaskDialog.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\AddTaskDialog.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\AddTaskDialog.cs",
+              "RelativeToolTip": "PROGPOEP2\\AddTaskDialog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vw8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:25:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskForm.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskForm.cs",
+              "RelativeToolTip": "PROGPOEP2\\TaskForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:24:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PROGPOEP2.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeDocumentMoniker": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeToolTip": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T19:53:30.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PROGPOEP2",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeDocumentMoniker": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\poe-part2-DlaminiThando\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeToolTip": "PROGPOEP2\\PROGPOEP2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T19:53:32.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\tasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\tasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\progpoep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\progpoep2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\progpoep2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\progpoep2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\responsemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|c:\\users\\tc\\downloads\\poe-part2-dlaminithando\\progpoep2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A8F37-7CEE-4818-83B1-963BB450F582}|PROGPOEP2\\PROGPOEP2.csproj|solutionrelative:progpoep2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasManager.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TasManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TasManager.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TasManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\TasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:38:21.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskRepository.cs",
+              "RelativeToolTip": "PROGPOEP2\\TaskRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:30:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskItem.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\TaskItem.cs",
+              "RelativeToolTip": "PROGPOEP2\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:28:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\MemoryManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MemoryManager.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\MemoryManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\MemoryManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:43:49.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\ChatbotEngine.cs",
+              "RelativeToolTip": "PROGPOEP2\\ChatbotEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:42:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PROGPOEP2.csproj",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeDocumentMoniker": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeToolTip": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T06:47:48.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseManager.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\ResponseManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\ResponseManager.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\ResponseManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\ResponseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:44:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PROGPOEP2",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeDocumentMoniker": "PROGPOEP2\\PROGPOEP2.csproj",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\PROGPOEP2.csproj",
+              "RelativeToolTip": "PROGPOEP2\\PROGPOEP2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T15:19:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\MainForm.cs [Design]",
+              "RelativeToolTip": "PROGPOEP2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:43:23.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "PROGPOEP2\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:44:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\VoiceManager.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\VoiceManager.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\VoiceManager.cs",
+              "RelativeToolTip": "PROGPOEP2\\VoiceManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:44:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\AsciiArt.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\AsciiArt.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\AsciiArt.cs",
+              "RelativeToolTip": "PROGPOEP2\\AsciiArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:41:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\Program.cs",
+              "RelativeDocumentMoniker": "PROGPOEP2\\Program.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\poe-part2-DlaminiThando\\PROGPOEP2\\Program.cs",
+              "RelativeToolTip": "PROGPOEP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:44:10.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
